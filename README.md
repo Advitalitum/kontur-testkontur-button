@@ -1,2 +1,15 @@
 # kontur-testkontur-button
-Adds button to switch between .testkontur.ru and .kontur.ru
+
+Браузерное расширение которое добавляет в верхний правый угол кнопку переключения между .testkontur.ru и .kontur.ru
+
+Работает только для страниц на домене testkontur.ru, kontur.ru
+
+## Установка
+
+1. Скачать [src.zip](https://github.com/Advitalitum/kontur-testkontur-button/releases/download/0.0.0.1/src.zip) себе на компьютер
+2. Распаковать архив
+3. Зайти в расширения браузера
+4. Включить режим разработчика
+5. Нажать "Загрузить распакованное расширение" и выбрать папку src из архива внутри которой лежит файл manifest.json, main.js
+6. Выключить режим разработчика если хочется
+7. Вы великолепны
