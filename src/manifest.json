@@ -1,12 +1,17 @@
 {
-  "manifest_version":3,
-  "version":"0.0.0.1",
-  "name":"Kontur/TestKontur button",
-  "description":"Adds button to switch between .testkontur.ru and .kontur.ru",
-  "content_scripts":[
+  "manifest_version": 3,
+  "version": "0.0.0.1",
+  "name": "Kontur/TestKontur button",
+  "description": "Adds button to switch between .testkontur.ru and .kontur.ru",
+  "content_scripts": [
     {
-     "matches":["*://*.testkontur.ru/*","*://*.kontur.ru/*"],
-     "js":["main.js"]
+      "matches": [
+        "*://*.testkontur.ru/*",
+        "*://*.kontur.ru/*"
+      ],
+      "js": [
+        "main.js"
+      ]
     }
   ]
 }
