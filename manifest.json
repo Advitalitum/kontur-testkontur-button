@@ -1,0 +1,11 @@
+{
+  "manifest_version":3,
+  "version":"1.0",
+  "name":"Kontur/TestKontur button",
+  "content_scripts":[
+    {
+     "matches":["*://*.testkontur.ru/*","*://*.kontur.ru/*"],
+     "js":["main.js"]
+    }
+  ]
+}
