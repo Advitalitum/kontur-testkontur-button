@@ -1,6 +1,6 @@
 const kontur = ".kontur.ru";
 const testKontur = ".testkontur.ru";
-const toArrow = "→";
+const toArrow = "→ ";
 const toKontur = toArrow + kontur;
 const toTestKontur = toArrow + testKontur;
 
