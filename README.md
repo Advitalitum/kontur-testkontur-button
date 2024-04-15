@@ -7,6 +7,8 @@ https://mon.testkontur.ru/contrails/158c26094caa2b9a580af20e7b27642e
 
 Работает только для страниц на домене testkontur.ru, kontur.ru
 
+![Пример](example.png)
+
 ## Установка
 
 1. Скачать [src.zip](https://github.com/Advitalitum/kontur-testkontur-button/releases/download/0.0.0.1/src.zip) или репозиторий себе на компьютер
