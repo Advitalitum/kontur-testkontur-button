@@ -1,6 +1,9 @@
 # kontur-testkontur-button
 
-Браузерное расширение которое добавляет в верхний правый угол страницы кнопку переключения между .testkontur.ru и .kontur.ru с тем же URL'ом
+Браузерное расширение которое добавляет в верхний правый угол страницы кнопку переключения между .testkontur.ru и .kontur.ru с тем же URL'ом, например
+
+https://mon.kontur.ru/contrails/158c26094caa2b9a580af20e7b27642e ->
+https://mon.testkontur.ru/contrails/158c26094caa2b9a580af20e7b27642e
 
 Работает только для страниц на домене testkontur.ru, kontur.ru
 
